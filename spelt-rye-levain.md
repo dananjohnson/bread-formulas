@@ -1,9 +1,10 @@
 ---
 # Overview
 title: Spelt-Rye Levain
-excerpt: 'Whole-wheat sourdough with 25% spelt and 12.5% rye. Based on Trevor J. Wilson’s <a href="http://www.breadwerx.com/make-tartine-style-country-bread-video/" title="Tartine Style Country Bread" target="_blank">Tartine Style Country Bread</a>.'
+excerpt: 'There’s something special about pairing spelt and rye in a bread formula, especially at a 2:1 ratio. Their flavors complement each other extremely well, while spelt adds a lot of elasticity to the dough, which is fun to work with. This formula uses large amounts of both (25% spelt and 12.5% rye), with a pairing of high- and low-protein high-extraction wheat flours for the remainder. It was originally based on Trevor J. Wilson’s <a href="http://www.breadwerx.com/make-tartine-style-country-bread-video/" title="Tartine Style Country Bread" target="_blank">Tartine Style Country Bread</a>.'
 tags:
-  - Yecora Rojo
+  - Skagit 1109
+  - Espresso
   - spelt
   - rye
 
@@ -27,24 +28,27 @@ pre-ferments:
 final-dough:
   - name: Final Dough
     ingredients:
-      - item: T85 Yecora Rojo
-        weight: 508
-        percentage: 63.5
+      - item: T85 Espresso wheat
+        weight: 250
+        percentage: 31.25
+      - item: T85 Skagit 1109 wheat
+        weight: 150
+        percentage: 18.75
       - item: spelt
-        weight: 195
-        percentage: 24.4
+        weight: 200
+        percentage: 25
       - item: medium rye
-        weight: 97
-        percentage: 12.2
+        weight: 100
+        percentage: 12.5
       - item: 'water #1'
-        weight: 600
-        percentage: 75
+        weight: 640
+        percentage: 80
       - item: 'water #2'
         weight: 40
         percentage: 5
       - item: salt
-        weight: 18
-        percentage: 2.3
+        weight: 17
+        percentage: 2.1
       - item: levain
         weight: 152
         percentage: 19
@@ -59,17 +63,19 @@ method:
     steps:
       - time: '14:00'
         instr: 'Autolyse flour and water #1.'
-      - time: '16:00'
-        instr: 'Add levain to autolyse. Mix to incorporate.'
       - time: '16:20'
-        instr: 'Add salt and water #2. Slap-and-fold for 3 minutes.'
+        instr: 'Add levain, salt, and water #2. Fold in bowl for 3 minutes.'
       - time: '16:30'
         instr: 'Begin bulk fermentation.'
       - time: '17:00'
         instr: 'Fold.'
-      - time: '18:30'
+      - time: '17:30'
         instr: 'Fold.'
-      - time: '19:30'
+      - time: '18:00'
+        instr: 'Fold.'
+      - time: '19:00'
+        instr: 'Fold.'
+      - time: '20:00'
         instr: 'Fold.'
       - time: '21:00'
         instr: 'Fold.'
