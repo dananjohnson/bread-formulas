@@ -1,10 +1,12 @@
 ---
 # Overview
-title: Vermont Whole-Grain Sourdough
-excerpt: 'A light, tangy sourdough based on the “Vermont Sourdough” recipe from Jeffrey Hamelman’s <i>Bread</i>, with the addition of flavorful, high-extraction Edison wheat, as well as 10% higher hydration.'
+title: Vermont Whole-Grain Sourdough with Durum Wheat
+excerpt: 'A light, tangy sourdough based on the “Vermont Sourdough” recipe from Jeffrey Hamelman’s <i>Bread</i>, with the addition of flavorful, identity-preserved Edison, durum wheat (semolina), and Skagit 1109 wheats, as well as 10% higher hydration. Consider trying other wheat varieties as well, with the consideration that lower-protein (10–11%) flours will balance out the higher protein bread flour.'
 tags:
   - rye
   - Edison
+  - Skagit 1109
+  - Durum
   - sourdough
 
 # Formula
@@ -12,8 +14,11 @@ pre-ferments:
   - name: Levain
     ingredients:
       - item: T85 Edison wheat
-        weight: 85
-        percentage: 50
+        weight: 45
+        percentage: 26.5
+      - item: T55 durum wheat
+        weight: 40
+        percentage: 23.5
       - item: bread flour
         weight: 85
         percentage: 50
@@ -28,8 +33,14 @@ final-dough:
   - name: Final Dough
     ingredients:
       - item: T85 Edison wheat
-        weight: 289
-        percentage: 42.5
+        weight: 125
+        percentage: 18.4
+      - item: T85 Skagit 1109 wheat
+        weight: 100
+        percentage: 14.7
+      - item: T55 durum wheat
+        weight: 64
+        percentage: 9.4
       - item: Bread flour
         weight: 289
         percentage: 42.5
@@ -40,7 +51,7 @@ final-dough:
         weight: 381
         percentage: 56
       - item: 'water #1'
-        weight: 374
+        weight: 390
         percentage: 55
       - item: 'water #2'
         weight: 34
@@ -67,16 +78,16 @@ method:
         instr: 'Fold.'
       - time: '13:15'
         instr: 'Fold.'
-      - time: '13:45'
+      - time: '14:15'
         instr: 'Shape dough into two batards, and place into floured baskets.'
-      - time: '15:30'
-        instr: 'Place dutch oven into oven and preheat to 500°F.'
       - time: '16:00'
+        instr: 'Place dutch oven into oven and preheat to 500°F.'
+      - time: '16:45'
         instr: 'Tilt basket to drop bread into dutch oven. Score bread and place in oven.'
-      - time: '16:15'
+      - time: '17:03'
         instr: 'Reduce oven temperature to 460°F.'
-      - time: '16:20'
+      - time: '17:05'
         instr: 'Remove lid from dutch oven.'
-      - time: '16:33'
+      - time: '17:23'
         instr: 'Remove bread from oven. Rest on cooling rack for at least two hours.'
 ---
