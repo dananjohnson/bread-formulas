@@ -8,7 +8,7 @@ My formulas don't develop linearly. While there may be a “master” version, i
 
 This repository attempts to document the riverine development of these formulas. It’s an unfolding corpus of experiments, with all its sprouting, interconnected nodes of discovery.
 
-Recipe experimentation and evolution are tracked in branches. All recipes are at some stage of development; some are close but need minor tweaking, others may be disasters. Those that I consider *good enough* — an amorphous, subjective, and excessively perfectionistic classification — are merged into the master branch, and then published on [A Breadbaker’s Notebook](https://github.com/dananjohnson/breadbakers-notebook), a simple, Jekyll-based “cookbook” interface.
+Recipe experimentation and evolution are tracked in branches. All recipes are at some stage of development; some are close but need minor tweaking, others may be disasters. Those that I consider *good enough* — an amorphous, perfectionistic, and excessively subjective classification — are merged into the master branch, and then published on [A Breadbaker’s Notebook](https://github.com/dananjohnson/breadbakers-notebook), a simple, Jekyll-based “cookbook” interface.
 
 ## License
 
