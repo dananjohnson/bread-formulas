@@ -1,10 +1,11 @@
 ---
 # Overview
 title: Hundo/Hundo Whole Wheat Sourdough
-excerpt: "A bread formula for the romantic (or OCD sufferer): 100% whole-grain Yecora Rojo. 100% water. Salt. Nothing more. This formula uses a stiff levain to build strength before the addition of so much water. We also sift a portion of the bran—reincorporating it later as a soaker—to prevent tearing in the dough."
+excerpt: "A bread formula for the romantic type: 100% whole-grain Yecora Rojo. 100% water. Salt. Nothing more. This formula uses a stiff levain to build strength before the addition of so much water. We also sift a portion of the bran—reincorporating it later as a soaker—to prevent tearing in the dough."
 tags:
   - Yecora Rojo
   - whole grain
+  - high hydration
 
 # Formula
 pre-ferments:
@@ -33,8 +34,8 @@ final-dough:
         weight: 50
         percentage: 6.25
       - item: salt
-        weight: 16
-        percentage: 2
+        weight: 17
+        percentage: 21.25
       - item: levain
         weight: 140
         percentage: 17.5
@@ -43,44 +44,36 @@ final-dough:
 method:
   - day: 1
     steps:
-      - time: '22:00'
-        instr: 'Prepare levain. Rest 16 hours.'
+      - time: '23:30'
+        instr: 'Sift flour to extract coarse bran. Weigh bran, then do a hot soaker at a 2:1 ratio (subtract water from water #1). Autolyse flour and remaining water #1. Prepare levain. Rest 14 hours.'
   - day: 2
     steps:
-      - time: '13:45'
-        instr: 'Sift flour to extract coarse bran. Weigh bran, then do a hot soaker at a 2:1 ratio (subtract water from water #1).'
-      - time: '14:00'
-        instr: 'Autolyse flour and water #1.'
-      - time: '16:00'
-        instr: 'Add levain to autolyse. Mix to incorporate.'
-      - time: '16:20'
-        instr: 'Add salt and water #2. Slap-and-fold for 5 minutes. Dough should start to feel strong, but don’t overmix.'
-      - time: '16:30'
+      - time: '13:20'
+        instr: 'Add levain, salt, and water #2 to autolyse. Slap-and-fold for 3 minutes to achieve a light mix.'
+      - time: '13:30'
         instr: 'Begin bulk fermentation.'
-      - time: '17:00'
+      - time: '14:00'
+        instr: 'Fold.'
+      - time: '14:30'
+        instr: 'Add half of bran soaker. Fold to incorporate.'
+      - time: '15:00'
+        instr: 'Add second half of bran soaker. Fold to incorporate.'
+      - time: '15:30'
+        instr: 'Fold.'
+      - time: '16:30'
         instr: 'Fold.'
       - time: '17:30'
         instr: 'Fold.'
       - time: '18:00'
-        instr: 'Fold.'
-      - time: '18:30'
-        instr: 'Fold.'
-      - time: '20:30'
-        instr: 'Preshape dough into two rounds.'
-      - time: '21:00'
-        instr: 'Shape dough into boules or batards, and place into floured, lined baskets. Put baskets into plastic bags.'
-      - time: '21:15'
-        instr: 'Put into fridge to retard overnight.'
-  - day: 3
-    steps:
-      - time: '8:15'
+        instr: 'Shape dough into two boules or batards, and place into floured, lined baskets.'
+      - time: '18:15'
+        instr: 'Begin proof.'
+      - time: '20:00'
         instr: 'Place dutch oven into oven and preheat to 500°F.'
-      - time: '9:15'
+      - time: '21:00'
         instr: 'Tilt basket to drop bread into dutch oven. Score bread and place in oven.'
-      - time: '9:35'
-        instr: 'Reduce oven temperature to 460°F.'
-      - time: '9:40'
-        instr: 'Remove lid from dutch oven.'
-      - time: '9:57'
-        instr: 'Remove bread from oven. Rest on cooling rack for at least two hours.'
+      - time: '21:20'
+        instr: 'Reduce oven temperature to 465°F. Remove lid from dutch oven.'
+      - time: '21:37'
+        instr: 'Remove bread from oven. Rest on cooling rack overnight.'
 ---
